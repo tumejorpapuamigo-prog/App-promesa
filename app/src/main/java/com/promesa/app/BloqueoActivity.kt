@@ -19,7 +19,7 @@ class BloqueoActivity : AppCompatActivity() {
     private var pkg = ""
 
     // Mensajes fijos por ahora; luego los generará la IA a partir de tu promesa
-    private val mensaje1 = "Te prometiste dejar esto. ¿Qué cambió en los últimos minutos? Esa ganas pasa. Tu promesa sigue ahí."
+    private val mensaje1 = "Te prometiste dejar esto. ¿Qué cambió en los últimos minutos? Esas ganas pasan. Tu promesa sigue ahí."
     private val mensaje2 = "Este es el último mensaje. No te voy a detener, porque esta es tu batalla, no la mía. Si continúas, rompes tu promesa. Tú eliges."
 
     override fun onCreate(savedInstanceState: Bundle?) {
