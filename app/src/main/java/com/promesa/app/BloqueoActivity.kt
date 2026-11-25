@@ -55,7 +55,7 @@ class BloqueoActivity : AppCompatActivity() {
         layout.addView(btnContinuar)
         setContentView(layout)
 
-        texto.text = mensaje1
+        texto.text = "[$pkg]\n\n" + mensaje1
 
         // El botón atrás también te saca de la app bloqueada
         onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
