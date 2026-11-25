@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Promesa</string>
+    <string name="descripcion_servicio">Detecta cuando abres una app bloqueada para mostrarte tu promesa.</string>
+</resources>
